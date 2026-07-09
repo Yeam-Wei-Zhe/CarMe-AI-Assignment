@@ -1,1 +1,2 @@
 # CarMe-AI-Assignment
+A basic AI assignment mainly focused on designing the knowledge bases of an AI chatbot using Botpress as the platform for low-code AI chatbot design.
